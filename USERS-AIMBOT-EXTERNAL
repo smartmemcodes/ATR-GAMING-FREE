@@ -8,22 +8,9 @@
     "password": "1",
     "hwid": "836E4D199CE4C4BCE67C8012DBC9B563DC2E05620D35F2D29F26FCBD83C40BF9",
     "isBanned": false,
-    "expiryDate": "2035-12-31T23:59:59"
+    "expiryDate": "2025-4-10T23:59:59"
   },
-  {
-    "username": "testuser2",
-    "password": "password2",
-    "hwid": "hwid2",
-    "isBanned": false,
-    "expiryDate": "2023-05-20T23:59:59"
-  },
-  {
-    "username": "testuser3",
-    "password": "password3",
-    "hwid": "hwid3",
-    "isBanned": false,
-    "expiryDate": "2024-01-01T23:59:59"
-  }
+
 
 
 ]
