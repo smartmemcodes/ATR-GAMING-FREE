@@ -38,6 +38,13 @@
     "isBanned": false,
     "expiryDate": "2025-12-31T23:59:59"
   },
+{
+    "username": "yasin",
+    "password": "sardar",
+    "hwid": "BEDD71F412C1361D427AEB11690965A0C41CBFAE9F9BD942DAB31A44B77373EB",
+    "isBanned": false,
+    "expiryDate": "2025-12-31T23:59:59"
+  },
 
 
 ]
