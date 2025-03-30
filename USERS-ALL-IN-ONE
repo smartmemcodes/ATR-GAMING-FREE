@@ -31,6 +31,13 @@
     "isBanned": false,
     "expiryDate": "2025-12-31T23:59:59"
   },
+{
+    "username": "sagor",
+    "password": "1",
+    "hwid": "A6852D1C03ACE69A670E55EE22535BA7569FE75E4EFFE40DA65DFBA44E852D8E",
+    "isBanned": false,
+    "expiryDate": "2025-12-31T23:59:59"
+  },
 
 
 ]
