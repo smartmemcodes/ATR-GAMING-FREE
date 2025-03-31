@@ -52,6 +52,13 @@
     "isBanned": false,
     "expiryDate": "2025-12-31T23:59:59"
   },
+{
+    "username": "hira",
+    "password": "1",
+    "hwid": "86DED20E8539DBCC066CF28C63A88CE54680B70A1BD6C44AF3915ED7CE22CD84",
+    "isBanned": false,
+    "expiryDate": "2025-12-31T23:59:59"
+  },
 
 
 
