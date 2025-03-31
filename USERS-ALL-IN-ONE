@@ -59,6 +59,13 @@
     "isBanned": false,
     "expiryDate": "2025-12-31T23:59:59"
   },
+{
+    "username": "ANIK",
+    "password": "1",
+    "hwid": "867E4FBE61707DDB988DE1EEA41302E0FA79AF5A31CD97EF3A47796F90D557D0",
+    "isBanned": false,
+    "expiryDate": "2025-12-31T23:59:59"
+  },
 
 
 ]
