@@ -80,6 +80,13 @@
     "isBanned": false,
     "expiryDate": "2025-12-31T23:59:59"
   },
+  {
+    "username": "abdur",
+    "password": "1",
+    "hwid": "E493CE4D5C028BCD1B548C4572583BE7804F554DB7BAF362991B4168C6B8C90C",
+    "isBanned": false,
+    "expiryDate": "2025-12-31T23:59:59"
+  },
 
 
 
