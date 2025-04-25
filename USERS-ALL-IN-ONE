@@ -101,5 +101,12 @@
     "isBanned": false,
     "expiryDate": "2025-12-31T23:59:59"
   },
+{
+    "username": "ziaul",
+    "password": "1",
+    "hwid": "519C3FA3C1F12229E1D6351E8D5D5EB0DA8058BED2F841FBEDB73F5B60CD2B60",
+    "isBanned": false,
+    "expiryDate": "2025-12-31T23:59:59"
+  },
 
 ]
