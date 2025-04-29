@@ -115,6 +115,13 @@
     "isBanned": false,
     "expiryDate": "2025-12-31T23:59:59"
   },
+ {
+    "username": "ASADUL",
+    "password": "12",
+    "hwid": "DD34C720164DE41FAD09247756F996F55218163704D3C57795D599BD3CD27B12",
+    "isBanned": false,
+    "expiryDate": "2025-12-31T23:59:59"
+  },
 
 
 
