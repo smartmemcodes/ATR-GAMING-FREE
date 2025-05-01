@@ -122,6 +122,13 @@
     "isBanned": false,
     "expiryDate": "2025-12-31T23:59:59"
   },
+ {
+    "username": "KAMAL",
+    "password": "1",
+    "hwid": "0E7CC697CE28E5FA7E3DD8EC9EA428EFCD3DF7CD99E4D4831958E508772061B1",
+    "isBanned": false,
+    "expiryDate": "2025-12-31T23:59:59"
+  },
 
 
 
