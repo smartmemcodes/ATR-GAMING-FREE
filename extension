@@ -1,0 +1,12 @@
+[
+  {
+    "username": "meow",
+    "password": "1",
+    "expiry": "2026-12-31T23:59:59Z"
+  },
+  {
+    "username": "user2",
+    "password": "password2",
+    "expiry": "2026-01-31T23:59:59Z"
+  }
+]
