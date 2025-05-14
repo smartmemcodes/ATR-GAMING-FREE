@@ -1,12 +1,17 @@
 [
   {
-    "username": "meow",
+    "username": "1",
     "password": "1",
     "expiry": "2026-12-31T23:59:59Z"
   },
   {
-    "username": "user2",
-    "password": "password2",
-    "expiry": "2026-01-31T23:59:59Z"
+    "username": "jane_smith",
+    "password": "secure456",
+    "expiry": "2025-10-01T00:00:00Z"
+  },
+  {
+    "username": "admin",
+    "password": "adminpass",
+    "expiry": "2026-01-01T00:00:00Z"
   }
 ]
