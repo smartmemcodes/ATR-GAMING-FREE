@@ -5,9 +5,9 @@
     "expiry": "2026-12-31T23:59:59Z"
   },
   {
-    "username": "jane_smith",
-    "password": "secure456",
-    "expiry": "2025-10-01T00:00:00Z"
+    "username": "MEOW",
+    "password": "1",
+    "expiry": "2022-10-01T00:00:00Z"
   },
   {
     "username": "admin",
