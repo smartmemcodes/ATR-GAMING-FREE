@@ -143,6 +143,13 @@
     "isBanned": false,
     "expiryDate": "2025-12-31T23:59:59"
   },
+{
+    "username": "anas",
+    "password": "1",
+    "hwid": "9CADBA82C2FE532F6FA6B462A62C1B751EEC04D3AAD690D5745A0CE0524EC3CB",
+    "isBanned": false,
+    "expiryDate": "2025-12-31T23:59:59"
+  },
 
 
 
