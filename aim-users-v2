@@ -3,13 +3,7 @@
 [
 
 
-  {
-    "username": "ASHRAFUL",
-    "password": "1",
-    "hwid": "836E4D199CE4C4BCE67C8012DBC9B563DC2E05620D35F2D29F26FCBD83C40BF9",
-    "isBanned": false,
-    "expiryDate": "2029-4-10T23:59:59"
-  },
+ 
   {
     "username": "azmain",
     "password": "1",
