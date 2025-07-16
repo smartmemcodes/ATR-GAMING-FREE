@@ -150,7 +150,15 @@
     "hwid": "1E0E491468A0FE9D4CD9FA57DD748BF1A80CBEF190A4BADC6A98B17B13C5F22E",
     "isBanned": false,
     "expiryDate": "2025-12-31T23:59:59"
+  },
+{
+    "username": "sohan1",
+    "password": "1",
+    "hwid": "8CA388D567541DBFD9118A76CCF04EBF174525FA33E8E0C87645714D71063B2F",
+    "isBanned": false,
+    "expiryDate": "2025-12-31T23:59:59"
   }
+
 
 
 
