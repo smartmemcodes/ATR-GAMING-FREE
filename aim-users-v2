@@ -206,7 +206,15 @@
     "hwid": "17AB62DBC6131F5535AD753A578BBBF8FACF427BAFE20146268F043FB60814F7",
     "isBanned": false,
     "expiryDate": "2025-12-31T23:59:59"
+  },
+{
+    "username": "karim",
+    "password": "1",
+    "hwid": "24643BA9AE9CDCF7D3301F363F5A01D55E6760A69E71121D70A1B904221D8ADF",
+    "isBanned": false,
+    "expiryDate": "2025-12-31T23:59:59"
   }
+
 
 
 
